@@ -1,2 +1,0 @@
-# luairan.github.io
-mybolg
